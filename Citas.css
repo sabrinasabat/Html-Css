@@ -1,0 +1,61 @@
+/* Además de haber pasado el código HTML en el validador,
+he pasado este código CSS también, garantizando así no tener
+ningun error, apenas warning */
+
+body{
+    background: rgb(211, 211, 211);
+}
+
+h1{
+    font-family:sans-serif ;
+    color: rgb(129, 133, 134);
+    text-align: center;
+}
+
+p.rosa{
+    color: rgb(129, 133, 134);
+    border: 3px solid pink;
+    background-color: rgb(243, 216, 220);
+    margin: 0px 20px;
+    padding: 15px;
+}
+
+p.rosafuerte{
+    color: white;
+    background-color: pink;
+    text-align: center;
+    margin: 0px 20px;
+    padding: 5px;
+}
+
+p.verde{
+    color: rgb(129, 133, 134);
+    border: 3px solid rgb(0, 204, 153) ;
+    background-color: rgb(166, 237, 219);
+    margin: 0px 20px;
+    padding: 15px;
+}
+
+p.verdefuerte{
+    color: white;
+    background-color: rgb(0, 204, 153);
+    text-align: left;
+    margin: 0px 20px;
+    padding: 5px;
+}
+
+p.azul{
+    color: rgb(129, 133, 134);
+    border: 3px solid rgb(0, 102, 203);
+    background-color: rgb(194, 218, 244);
+    margin: 0px 20px;
+    padding: 15px;
+}
+
+p.azulfuerte{
+    color: white;
+    background-color: rgb(0, 102, 203);
+    text-align: right;
+    margin: 0px 20px;
+    padding: 5px;
+}
